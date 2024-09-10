@@ -1,0 +1,8 @@
+Renacana pembelajaran
+
+1. html
+2. css (grid, flexbox)
+3. boootstrap
+4. javascript
+5. dom js
+6. codeigniter
